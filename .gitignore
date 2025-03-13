@@ -2,17 +2,25 @@
 venv*
 */venv*
 */*/venv*
+*/*/*/venv*
+*/*/*/*/venv*
 .venv
 */.venv
 */*/.venv
+*/*/*/.venv
+*/*/*/*/.venv
 env*
 */env*
 */*/env*
+*/*/*/env*
+*/*/*/*/env*
 
 # Local Environment Variables
 .env
 */.env
 */*/.env
+*/*/*/.env
+*/*/*/*/.env
 
 # Git Examples
 
